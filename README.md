@@ -6,8 +6,9 @@
 
 For this coding challenge we would like you to build a simple web application that will allow a user to view and analyze their driving data. The application should be built using the following technologies:
 
-- React 
-- Node.js / NextJS
+- React
+  - style using CSS (TailwindCSS preferred)
+- Node.js NestJS, or NextJS (preferred)
 - Typescript
 
 Feel free to use any other libraries or frameworks that you feel will help you complete the challenge.  You are free to design the application as you see fit as long as it meets the requirements below.
