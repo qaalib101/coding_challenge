@@ -8,13 +8,13 @@ type LayoutProps = {
 export default function Layout( { children } : LayoutProps) {
   return (
     <div className="font-mono relative">
-      <Header className="">
+      <Header className="text-center">
         Driver Data
       </Header>
       <Content>
         <main className='place-content-center p-10'>{children}</main>
       </Content>
-      <Footer><div className="place-content-center">Footer</div></Footer>
+      <Footer className="text-center">Footer</Footer>
     </div>
   )
 }
